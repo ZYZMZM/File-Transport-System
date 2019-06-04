@@ -1,0 +1,13 @@
+Welcome to the File Transport monitor.
+Your File Transport connection id is  
+Server version: 12.0 Source distribution
+
+This system can provide high performance file transmission service in LAN. 
+The author of this system is Zhao Yang.
+
+Copyright (c) 2019, The CSDN blog address is http://zhaoyang.blog.csdn.net
+
+The source code of the system is at https://github.com/ZYZMZM.Point out that 
+you can use issue in Github to raise errors and help improve.
+
+Type 'help;' for help. Type 'clear' or 'Ctrl+l' to clear the screen.

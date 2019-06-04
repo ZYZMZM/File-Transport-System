@@ -1,0 +1,18 @@
+You are Ordinary users
+ls - View server-side file information
+put filename - Upload a file named filename local files to the server
+get filename - Download a file named filename from server to local
+mkdir folder - Create a folder on the server side called folder
+touch filename - Create a file called filename on the server side  
+help - View System Help Information
+bye  - Exit local client-side
+end  - Exit local client-side
+exit - Exit local client-side
+quit - Exit local client-side
+over - Exit local client-side
+
+Be careful:
+You can continue uploading files that you haven't uploaded, provided that 
+you are the owner of the file, and any file on the server can be uploaded intermittently.
+
+If other users have uploaded the same file content as you uploaded before, the second upload function can be realized.
